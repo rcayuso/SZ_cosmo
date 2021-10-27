@@ -5,7 +5,7 @@ with galaxy surveys and reconstruction of radial velocity and transverse velocit
 on the lightcone.
 
 spectra.py generates Cls
-sz_estim.py  processes the Cls to calculate biases and noise to reconstructed 
+sz_estim2.py  processes the Cls to calculate biases and noise to reconstructed 
 velocity fields and provides pipeline for Gaussian simulations.
 
 Not all files are included in the repo, current state is just for looking at the code.
